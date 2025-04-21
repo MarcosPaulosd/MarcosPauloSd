@@ -14,6 +14,12 @@
 🍷🎮  Gosto de um bom vinho e adoro videogames.</br>
 📁    Aqui você pode conferir alguns dos meus projetos no meus repositórios.
 
+<div>
+<img height= "180en" src = "https://github-readme-stats.vercel.app/api?username=MarcosPauloSd&show_icons=true&theme=transparent">
+<img height= "180en" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPauloSd&layout=compact&theme=transparent">
+</div>
+
+
 ## Linguagens e ferramentas
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/><img
 src="https://cdn.worldvectorlogo.com/logos/delphi-2.svg" width="40" height="40"/>
