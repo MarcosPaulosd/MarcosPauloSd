@@ -34,4 +34,4 @@ src="https://cdn.worldvectorlogo.com/logos/delphi-2.svg" width="40" height="40"/
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![snake gif](https://github.com/MarcosPauloSd/MarcosPauloSd/blob/output/github-contribution-grid-snake.svg)
+
